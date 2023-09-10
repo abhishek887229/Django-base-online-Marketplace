@@ -59,7 +59,8 @@ look at requirment.txt for more Detail.
    ```shell
     $python manage.py runserver
 ## Demo
-* ![Screenshot (248)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/b9b61cc2-8d45-4957-81c1-653b772cf614)
+* ![Screenshot (246)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/1cfa053e-c47b-49fb-8896-330c93265f13)
+
 
   
 
