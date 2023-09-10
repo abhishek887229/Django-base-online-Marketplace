@@ -57,7 +57,29 @@ look at requirment.txt for more Detail.
    ```shell
     $python manage.py runserver
 ## Demo
-https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/1cfa053e-c47b-49fb-8896-330c93265f13
+* ![Screenshot (248)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/b9b61cc2-8d45-4957-81c1-653b772cf614)
+
+  
+
+* ![Screenshot (249)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/dc98d0f7-f6a1-4f05-9b01-7066c9503092)
+
+
+* ![Screenshot (250)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/e5870f0b-e307-4042-b8c3-c5ee3781b27d)
+  
+
+*  ![Screenshot (251)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/403bcf4e-a3c6-44a9-8c73-15f6ecae4b87)
+
+
+* ![Screenshot (252)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/57ecebba-23ef-47ea-b34c-8979b9643b83)
+
+
+*  ![Screenshot (246)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/68fb935d-13af-4c12-8e2b-0e74cb6e8463)
+
+
+  
+
+8. ![Screenshot (247)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/9efcd0ab-a3ef-4c99-a290-d97caeb79dbb)
+
 
 
 ## Contributing
