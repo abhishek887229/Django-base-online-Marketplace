@@ -1,5 +1,5 @@
 
-# MarketCenter online marketplace
+# MarketConnect online marketplace
 
 this is an online marketplace where users can sell/buy old and new things, it comes with the security of Django Encryption and interactive UI giving its Users a good Experience. There is also a feature of chatting so users can interact with each other and Deal with the Product.
 
@@ -59,31 +59,13 @@ look at requirment.txt for more Detail.
    ```shell
     $python manage.py runserver
 ## Demo
-* ![Screenshot (246)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/1cfa053e-c47b-49fb-8896-330c93265f13)
-
-
-  
-
-* ![Screenshot (249)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/dc98d0f7-f6a1-4f05-9b01-7066c9503092)
-
-
-* ![Screenshot (250)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/e5870f0b-e307-4042-b8c3-c5ee3781b27d)
-  
-
-*  ![Screenshot (251)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/403bcf4e-a3c6-44a9-8c73-15f6ecae4b87)
-
-
-* ![Screenshot (252)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/57ecebba-23ef-47ea-b34c-8979b9643b83)
-
-
-*  ![Screenshot (246)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/68fb935d-13af-4c12-8e2b-0e74cb6e8463)
-
-
-  
-
-8. ![Screenshot (247)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/9efcd0ab-a3ef-4c99-a290-d97caeb79dbb)
-
-
+![Screenshot (249)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/035a3ad7-0686-4329-9e1b-34200f88689f)
+![Screenshot (250)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/1728ebe4-1185-4199-a0f9-ab14c7359a28)
+![Screenshot (251)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/b75cec1b-3cb5-42b2-9edf-90183d344c60)
+![Screenshot (252)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/477a6517-dea7-4297-9fc8-f7ad85389dd3)
+![Screenshot (246)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/913b4b56-01b0-4445-b598-cdc1b2c26731)
+![Screenshot (247)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/199e5008-81f0-47bb-92c9-e303d43f6dde)
+![Screenshot (248)](https://github.com/abhishek887229/Django-base-online-Marketplace/assets/125186953/3c82f383-f7a0-4879-9bfd-113b77b39a0a)
 
 ## Contributing
 
