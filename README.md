@@ -45,7 +45,7 @@ look at requirment.txt for more Detail.
 1. Clone the repository:
 
    ```shell
-   git clone 
+   git clone https://github.com/abhishek887229/Django-base-online-Marketplace.git
 
 2. open terminal and run the following commands to Save the Database in your System
    ```shell
