@@ -19,9 +19,6 @@ this is an online marketplace where users can sell/buy old and new things, it co
 - [Demo](#demo)
 - [Contributing](#contributing)
 
-## About
-
-Provide a more detailed introduction about your project. Explain what it does, its purpose, and any unique features it has. Mention why someone might want to use or contribute in this repo,its purpose is to make selling and buying easy and give the platform to the people it also helps retailer to sell product and buy them in bulk according to their need.
 ## Features
 
 - Simple Ui
@@ -48,7 +45,7 @@ look at requirment.txt for more Detail.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone 
 
 2. open terminal and run the following commands to Save the Database in your System
    ```shell
